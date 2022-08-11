@@ -80,5 +80,5 @@ Prueba tecnica para Telecom
 [screen1-url]: https://ibb.co/Q6s47QC
 
 [screen2.img]: https://i.ibb.co/zSDB81H/Captura-de-pantalla-2022-08-11-150405.png
-[screen2-url]: https://i.ibb.co/zSDB81H/Captura-de-pantalla-2022-08-11-150405.png
+[screen2-url]: https://ibb.co/30QjfwY
 
