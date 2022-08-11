@@ -82,7 +82,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png
 [react-url]: https://reactjs.org/
 [redux-img]: https://redux.js.org/img/redux-logo-landscape.png
 [redux-url]: https://react-redux.js.org/
