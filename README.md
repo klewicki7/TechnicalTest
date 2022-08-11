@@ -49,6 +49,8 @@ Prueba tecnica para Telecom
 - [![React][react.js]][react-url]
 - [![Redux][redux-img]][redux-url]
 
+- [![screen1][screen1-img]][scree1-url]
+- [![screen2][screen2-img]][screen2-url]
 
 <!-- GETTING STARTED -->
 
@@ -70,6 +72,13 @@ Prueba tecnica para Telecom
 
 [react.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png
 [react-url]: https://reactjs.org/
+
 [redux-img]: https://redux.js.org/img/redux-logo-landscape.png
 [redux-url]: https://react-redux.js.org/
+
+[screen1-img]: https://i.ibb.co/y8LrmPY/Captura-de-pantalla-2022-08-11-150411.png
+[screen1-url]: https://ibb.co/Q6s47QC
+
+[screen2.img]: https://i.ibb.co/zSDB81H/Captura-de-pantalla-2022-08-11-150405.png
+[screen2-url]: https://i.ibb.co/zSDB81H/Captura-de-pantalla-2022-08-11-150405.png
 
