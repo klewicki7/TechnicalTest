@@ -1590,5 +1590,5 @@ export {
   groupDays,
   capitalize,
   dataToday,
-  ICON_LIST
+  ICON_LIST,
 };

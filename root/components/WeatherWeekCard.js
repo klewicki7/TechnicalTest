@@ -21,18 +21,11 @@ import {
 } from '@native-base/icons';
 moment.locale('es');
 
-function WeatherWeekCard({data, filterData}) {
-  const [weatherListWeek, setWeatherListWeek] = useState(
-    groupDays(data.data.list),
-  );
+function WeatherWeekCard({data}) {
+  const [weatherListWeek, setWeatherListWeek] = useState(data);
   useEffect(() => {
-    console.log(data.data.list,'dale paa')
-    if (filterData) {
-      setWeatherListWeek(filterData.orderList);
-    } else {
-      setWeatherListWeek(groupDays(data.data.list));
-    }
-  }, [filterData, data]);
+    setWeatherListWeek(data);
+  }, [data]);
 
   return (
     <ScrollView
@@ -69,11 +62,18 @@ function WeatherWeekCard({data, filterData}) {
                             {moment(e.dt_txt).format('hh')}
                           </Text>
                           <Text textAlign={'center'} fontSize={15}>
-                            <Icon color={'white'} size={7} as={Ionicons} name={ICON_LIST[e.weather[0].icon]} />
-                            
+                            <Icon
+                              color={'white'}
+                              size={7}
+                              as={Ionicons}
+                              name={ICON_LIST[e.weather[0].icon]}
+                            />
                           </Text>
-                          <Text color={'white'} textAlign={'center'} fontSize={15}>
-                            {String(e.main.temp).slice(0,1)}º
+                          <Text
+                            color={'white'}
+                            textAlign={'center'}
+                            fontSize={15}>
+                            {String(e.main.temp).slice(0, 1)}º
                           </Text>
                         </VStack>
                       );
