@@ -34,7 +34,7 @@
     ·
     <a href="https://www.linkedin.com/in/kevlewicki/">Mi LinkedIn</a>
     ·
-    <a href="https://wa.link/s485ti">WhatssApp</a>
+    <a href="https://wa.link/s485ti">WhatsApp</a>
   </p>
 </div>
 
