@@ -49,7 +49,7 @@ Prueba tecnica para Telecom
 - [![React][react.js]][react-url]
 - [![Redux][redux-img]][redux-url]
 
-- [![screen1][screen1-img]][scree1-url]
+- [![screen1][screen1-img]][screen1-url]
 - [![screen2][screen2-img]][screen2-url]
 
 <!-- GETTING STARTED -->
