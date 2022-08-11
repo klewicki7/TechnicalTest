@@ -49,7 +49,7 @@ Prueba tecnica para Telecom
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 - [![React][react.js]][react-url]
-- [![Redux][redux-img][redux-url]
+- [![Redux][redux-img]][redux-url]
 
 
 <!-- GETTING STARTED -->
@@ -84,6 +84,6 @@ This is an example of how to list things you need to use the software and how to
 
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
-[redux-img]: https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg
+[redux-img]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rwMSTN2sKZQivG64hnJH1C3dWwJ3MwT_Rg&usqp=CAU
 [redux-url]: https://react-redux.js.org/
 
