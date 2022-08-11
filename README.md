@@ -84,6 +84,6 @@ This is an example of how to list things you need to use the software and how to
 
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
-[redux-img]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[redux-url]: https://jquery.com
+[redux-img]: https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg
+[redux-url]: https://react-redux.js.org/
 
