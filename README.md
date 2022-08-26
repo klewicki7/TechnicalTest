@@ -42,7 +42,7 @@
 
 ## Acerca del proyecto
 
-Prueba tecnica para Telecom
+Prueba tecnica
 
 ### Built With
 
